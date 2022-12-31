@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>正正经经</title>
+    <link>/</link>
+    <description>Recent content on 正正经经</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试一下</title>
+      <link>/2022/12/31/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/12/31/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</guid>
+      <description>一些人吐槽Numbers相比于Excel来说很难用，功能不齐全。这种吐槽其实大可不必，在我看来Numbers虽然对标的是Excel，但是其设计理念与使用理念是不同的。两种设计与使用理念不同的东西，就没必要强行对比高下了。
+Excel是一款电子表格软件，具有出色的计算，数据处理功能，这是Excel的最大的强项。对于Numbers来说，确实在数据处理上较Excel要弱很多，但是Numbers的计算功能其实对于大多数的日常使用来说已经足够。
+而Numbers具有Excel所没有的一个特点就是将文本等解释文档、图片等多媒体资源、数据表格以及表格的处理和分析结果等内容整合在一起，形成一个整体报告文件。
+这一点非常类似于Rmarkdown之于R（以及现在在强推的quarto），Jupyter Notebook之于Python。所以从这个角度来看，是不是可以将Numbers看作Numbers之于Table。这种处理方式对于可重复研究（reproducible research）来说很重要，对于大型的项目能够节省很多时间。当然这种灵活性，Numbers与Rmarkdown等还是无法比拟，灵活性上要弱很多。</description>
+    </item>
+    
+    <item>
+      <title>测试一下</title>
+      <link>/2022/12/31/abc/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/12/31/abc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+  </channel>
+</rss>
